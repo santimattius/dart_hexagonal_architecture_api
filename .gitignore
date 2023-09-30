@@ -25,3 +25,8 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/dart_hexagonal_architecture_api.iml
+.idea/workspace.xml
