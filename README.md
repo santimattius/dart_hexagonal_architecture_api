@@ -1,3 +1,5 @@
+![giphy](https://github.com/santimattius/dart_hexagonal_architecture_api/assets/22333101/c3dd2d48-2198-4911-a2c5-be195e2e4196)
+
 # dart_hexagonal_architecture_api
 Example project applying hexagonal architecture with Dart Frog
 
